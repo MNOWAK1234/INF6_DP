@@ -1,2 +1,3 @@
-# INF6_DP
-Distributed Processing Classes term 6 Poznan University of Technology 
+# Distributed Processing Project term 6 Poznan University of Technology 
+
+* Project: Zabawa w Zabijanie 
